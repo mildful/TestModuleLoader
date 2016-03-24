@@ -1,0 +1,1 @@
+export { HelloWorldComponent } from './src/hello-world.component';

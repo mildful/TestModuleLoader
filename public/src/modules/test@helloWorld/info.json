@@ -1,0 +1,8 @@
+{
+  "namespace": "test",
+  "name": "helloWorld",
+  "version": "1.0.0",
+  "dependencies": {
+    "test@counter": "1.0.0"
+  }
+}
