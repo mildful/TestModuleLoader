@@ -1,6 +1,6 @@
 # TestModuleLoader
 
-Just a little repo the demonstrate an issue related to this question : (@addurl)
+Just a little repo to demonstrate an issue related to this question : (@addurl)
 
 How to run it ?
 ```
